@@ -1,3 +1,6 @@
+![image](https://github.com/LerinaMM/bitcoin_series_temporais_projecao/assets/83770121/8ac371d7-fa5a-49fa-afd4-ffc4a45cfc54)
+
+
 # ✅ BITCOIN - Séries Temporais e Simulação de Monte Carlo
 
 Analise por séries temporais do comportamento do preço do Bitcoin. Este repositório tem como objetivo o início de estudo de séries temporais, onde este tema foi coletado através do canal "Nerd dos Dados" onde foi abordado o estudo do comportamento do Bitcoin e elaborada uma previsão do valor do Bitcoin nos próximos 6 meses.
