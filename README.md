@@ -1,6 +1,6 @@
 # ✅ BITCOIN - Séries Temporais e Simulação de Monte Carlo
 
-Analise por séries temporais do comportamento do preço do Bitcoin
+Analise por séries temporais do comportamento do preço do Bitcoin. Este repositório tem como objetivo o início de estudo de séries temporais, onde este tema foi coletado através do canal "Nerd dos Dados" onde foi abordado o estudo do comportamento do Bitcoin e elaborada uma previsão do valor do Bitcoin nos próximos 6 meses.
 
 # 📖 Bitcoin
 
