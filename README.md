@@ -24,7 +24,7 @@ A ideia por trás da Simulação de Monte Carlo é realizar repetidos experiment
 
 A Simulação de Monte Carlo tem várias aplicações práticas, como a avaliação de riscos financeiros, o planejamento de projetos, a otimização de sistemas complexos, o estudo de fenômenos físicos e a previsão de resultados incertos. Na área financeira, por exemplo, a simulação de Monte Carlo pode ser usada para estimar o valor de opções, analisar portfólios de investimentos e realizar testes de estresse em modelos econômicos. Em engenharia, a simulação de Monte Carlo é aplicada para analisar a confiabilidade de sistemas, estimar tempos de entrega e avaliar a segurança de estruturas. Em essência, a Simulação de Monte Carlo é uma ferramenta poderosa que permite abordar problemas complexos e tomar decisões informadas em situações de incerteza.
 
-# 💪 Fonte
+# 🌐 Fonte
 
 Yahoo Finance - https://finance.yahoo.com/ - Informações coletadas diretamente da API
 
@@ -37,3 +37,7 @@ Yahoo Finance - https://finance.yahoo.com/ - Informações coletadas diretamente
 | `High` | Maior preço da ação naquele dia. |
 | `Low` | Menor preço da ação naquele dia. |
 | `Volume` | Quantidade de ações comercializadas naquele dia. |
+
+# 💪 Desafio
+
+Verificar a variação da cotação durante o tempo e elaborar uma previsão através da Simulação de Monte Carlo sobre o preço futuro da Criptomoeda nos próximos 6 meses
